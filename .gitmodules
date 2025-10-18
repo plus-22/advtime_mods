@@ -211,3 +211,9 @@
 [submodule "liquid_restriction"]
 	path = liquid_restriction
 	url = https://github.com/mightyjoe781/liquid_restriction
+[submodule "xdecor"]
+	path = xdecor
+	url = https://codeberg.org/Wuzzy/xdecor-libre.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
