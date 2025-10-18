@@ -1,3 +1,84 @@
 [submodule "smk_custom"]
 	path = smk_custom
 	url = git@github.com:mightyjoe781/smk_custom.git
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "awards"]
+	path = awards
+	url = https://gitlab.com/rubenwardy/awards.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "beowulf"]
+	path = beowulf
+	url = https://github.com/mt-mods/beowulf.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://codeberg.org/tenplus1/caverealms_lite.git
+[submodule "censor"]
+	path = censor
+	url = git@github.com:mightyjoe781/censor.git
+[submodule "death_cetro"]
+	path = death_cetro
+	url = git@github.com:mightyjoe781/death_cetro.git
+[submodule "death_messages"]
+	path = death_messages
+	url = git@github.com:mightyjoe781/death_messages.git
+[submodule "ethereal"]
+	path = ethereal
+	url = https://codeberg.org/tenplus1/ethereal.git
+[submodule "farming"]
+	path = farming
+	url = https://codeberg.org/tenplus1/farming.git
+[submodule "halloween"]
+	path = halloween
+	url = git@github.com:mightyjoe781/halloween.git
+[submodule "guilds_redo"]
+	path = guilds_redo
+	url = git@github.com:mightyjoe781/guilds_redo.git
+[submodule "hangglider"]
+	path = hangglider
+	url = https://github.com/mt-mods/hangglider
+[submodule "info"]
+	path = info
+	url = https://github.com/mightyjoe781/info
+[submodule "jail"]
+	path = jail
+	url = https://github.com/multicraft-mods/jail.git
+[submodule "lapis"]
+	path = lapis
+	url = https://codeberg.org/TenPlus1/lapis
+[submodule "mail_mod"]
+	path = mail_mod
+	url = https://github.com/minetest-mail/mail_mod
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "wielded_light"]
+	path = wielded_light
+	url = https://github.com/minetest-mods/wielded_light.git
+[submodule "teleport_potion"]
+	path = teleport_potion
+	url = https://codeberg.org/tenplus1/teleport_potion.git
+[submodule "protector"]
+	path = protector
+	url = https://github.com/mt-mods/protector
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://codeberg.org/tenplus1/mobs_npc
+[submodule "mobs_skeletons"]
+	path = mobs_skeletons
+	url = https://codeberg.org/tenplus1/mobs_skeletons.git
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo.git
