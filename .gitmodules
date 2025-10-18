@@ -205,6 +205,9 @@
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
-[submodule "minetest-invhack"]
-	path = minetest-invhack
-	url = https://github.com/salahzar/minetest-invhack
+[submodule "ranks"]
+	path = ranks
+	url = https://github.com/mightyjoe781/ranks
+[submodule "liquid_restriction"]
+	path = liquid_restriction
+	url = https://github.com/mightyjoe781/liquid_restriction
